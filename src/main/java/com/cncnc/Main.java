@@ -40,4 +40,8 @@ public class Main {
         }
     }
 
+
+    private static void test1(){
+        System.out.println("Hello World!");
+    }
 }
