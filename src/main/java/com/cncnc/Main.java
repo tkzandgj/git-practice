@@ -30,6 +30,8 @@ public class Main {
         System.out.println("=======================end======================");
 
         test();
+
+        test1();
     }
 
 
@@ -43,5 +45,6 @@ public class Main {
 
     private static void test1(){
         System.out.println("Hello World!");
+        System.out.println(System.currentTimeMillis());
     }
 }
