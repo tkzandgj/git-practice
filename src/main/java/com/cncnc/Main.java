@@ -56,4 +56,8 @@ public class Main {
     private static void test3(){
         System.out.println("this branch is test3");
     }
+
+    private static void test4(){
+        System.out.println("this branch is test4");
+    }
 }
