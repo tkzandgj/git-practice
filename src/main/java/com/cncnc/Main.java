@@ -66,4 +66,8 @@ public class Main {
         System.out.println("@@@@@");
         System.out.println("$$$$$$$$$$");
     }
+
+    private static void test77(){
+        System.out.println("this branch is test4");
+    }
 }
