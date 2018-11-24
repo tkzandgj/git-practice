@@ -60,4 +60,8 @@ public class Main {
     private static void test4(){
         System.out.println("this branch is test4");
     }
+
+    private static void test6(){
+        System.out.println("this branch is test6");
+    }
 }
