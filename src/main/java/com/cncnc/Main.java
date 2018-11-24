@@ -69,5 +69,10 @@ public class Main {
     
     private static void test7(){
         System.out.println("this branch is test7");
+        System.out.println("$$$$$$$$$$");
+    }
+
+    private static void test77(){
+        System.out.println("this branch is test4");
     }
 }
