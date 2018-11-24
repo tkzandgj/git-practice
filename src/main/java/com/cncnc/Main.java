@@ -47,4 +47,9 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println(System.currentTimeMillis());
     }
+
+
+    private static void test2(){
+        System.out.println("this branch is test2");
+    }
 }
