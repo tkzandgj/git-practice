@@ -44,4 +44,9 @@ public class Main {
     private static void test1(){
         System.out.println("Hello World!");
     }
+
+
+    private static void test2(){
+        System.out.println("this branch is test2");
+    }
 }
