@@ -61,8 +61,12 @@ public class Main {
         System.out.println("this branch is test4");
     }
 
-    private static void test6(){
+    private static void test6() {
         System.out.println("this branch is test6");
         System.out.println("modify master branch test!");
+    }
+    
+    private static void test5(){
+        System.out.println("this branch is test5");
     }
 }
