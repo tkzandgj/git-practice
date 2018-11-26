@@ -63,11 +63,14 @@ public class Main {
 
     private static void test6(){
         System.out.println("this branch is test6");
+<<<<<<< HEAD
         System.out.println("@@@@@");
         System.out.println("$$$$$$$$$$");
     }
 
     private static void test77(){
         System.out.println("this branch is test4");
+=======
+>>>>>>> parent of 343b240... add
     }
 }
