@@ -33,11 +33,10 @@ public class Main {
 
         test1();
 
-<<<<<<< HEAD
         System.out.println("########");
-=======
         System.out.println("#################");
->>>>>>> 343a4008a8db5b21b3a7a410350078941d3e3f91
+
+        System.out.println("@@@@@@@@测试");
     }
 
 
