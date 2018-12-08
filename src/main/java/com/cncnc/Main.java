@@ -39,7 +39,6 @@ public class Main {
         System.out.println("@@@@@@@@测试");
     }
 
-
     private static void test(){
         map.put("test-key", "test-value");
         for (Map.Entry<String, String> entry : map.entrySet()){
