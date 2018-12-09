@@ -32,6 +32,8 @@ public class Main {
         test();
 
         test1();
+
+        System.out.println("-----------");
     }
 
 
@@ -65,5 +67,9 @@ public class Main {
         System.out.println("this branch is test6");
         System.out.println("@@@@@");
         System.out.println("$$$$$$$$$$");
+    }
+
+    private static void test77(){
+        System.out.println("this branch is test4");
     }
 }
