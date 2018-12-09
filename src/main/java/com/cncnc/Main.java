@@ -42,7 +42,7 @@ public class Main {
         System.out.println("===============");
         System.out.println("---------------dasdas");
 
-        System.out.println("***********");
+        System.out.println("**************");
     }
 
     private static void test(){
